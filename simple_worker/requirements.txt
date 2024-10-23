@@ -1,0 +1,6 @@
+celery==5.0.5
+kombu==5.0.2
+importlib_metadata==3.10.0
+PyPDF2
+requests
+# Add your other dependencies here
